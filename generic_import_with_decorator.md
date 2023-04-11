@@ -175,3 +175,4 @@ public CsvImportRowsStrategy(
     }
 }
 ```
+Final output [video](https://www.youtube.com/watch?v=2y6faw4qO-M)
