@@ -175,4 +175,4 @@ public CsvImportRowsStrategy(
     }
 }
 ```
-Final output [video](https://www.youtube.com/watch?v=2y6faw4qO-M)
+Click to watch the final output [![video](https://img.youtube.com/vi/2y6faw4qO-M/maxresdefault.jpg)](https://www.youtube.com/watch?v=2y6faw4qO-M)
