@@ -50,5 +50,6 @@ public class PngCompressStrategy implements CompressStrategy {
    }
 }
 ```
+Click to watch the final output [![video](https://img.youtube.com/vi/dfZ3kVSDRg4/maxresdefault.jpg)](https://www.youtube.com/watch?v=dfZ3kVSDRg4)
 
-Final output [video](https://www.youtube.com/watch?v=dfZ3kVSDRg4)
+
