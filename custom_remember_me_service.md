@@ -204,5 +204,4 @@ public static class CustomSecurityConfig extends WebSecurityConfigurerAdapter {
 
 }
 ```
-
-Final output [video](https://www.youtube.com/watch?v=Vx90mELs0SM)
+Click to watch the final output [![video](https://img.youtube.com/vi/Vx90mELs0SM/maxresdefault.jpg)](https://www.youtube.com/watch?v=Vx90mELs0SM)
