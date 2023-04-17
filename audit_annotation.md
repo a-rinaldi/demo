@@ -202,4 +202,5 @@ public class EventAspect {
     }
 }
 ```
-Final output [video](https://www.youtube.com/watch?v=D25yQMO2nGk)
+Final output [![video](https://img.youtube.com/vi/D25yQMO2nGk/maxresdefault.jpg)](https://www.youtube.com/watch?v=D25yQMO2nGk)
+
